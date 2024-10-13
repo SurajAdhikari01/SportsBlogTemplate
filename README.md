@@ -1,8 +1,7 @@
-# React + Vite
+1. `clone git https://github.com/SurajAdhikari01/SportsBlogTemplate/edit/main/README.md`
+2. `npm i`
+3. `npm run dev`
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Intital Screen with placeholder images
+<img width="1507" alt="image" src="https://github.com/user-attachments/assets/cbb82409-ccea-49ad-baa5-6916c85e84be">
